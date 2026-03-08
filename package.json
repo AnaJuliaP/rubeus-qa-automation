@@ -1,0 +1,19 @@
+{
+  "name": "rubeus-qa-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:run:certificacao": "cypress run --spec 'cypress/e2e/certificacao/**'",
+    "cy:run:site": "cypress run --spec 'cypress/e2e/site/**'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.11.0"
+  }
+}
