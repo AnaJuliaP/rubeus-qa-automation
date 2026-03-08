@@ -1,15 +1,6 @@
-# Testes Automatizados – APPRBS Qualidade
+# Testes Automatizados – Rubeus
 
-Projeto de testes automatizados desenvolvido com **Cypress** cobrindo os bugs identificados durante testes exploratórios nas páginas de Certificação e Site da plataforma APPRBS.
-
----
-
-## Páginas testadas
-
-| Página | URL |
-|--------|-----|
-| Certificação | https://qualidade.apprbs.com.br/certificacao |
-| Site | https://qualidade.apprbs.com.br/site |
+Projeto desenvolvido como parte de um processo seletivo para a vaga de **QA Junior** da empresa Rubeus. Foram realizados testes exploratórios em duas páginas de um ambiente de qualidade, identificando bugs funcionais e inconsistências visuais. Os casos encontrados foram documentados com tipo, classificação e prioridade, e automatizados utilizando **Cypress** com JavaScript.
 
 ---
 
